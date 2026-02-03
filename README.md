@@ -1,0 +1,5 @@
+This Excel dashboard analyzes delivery operations and sales performance data to provide actionable insights into order fulfillment efficiency, delivery timeliness, and customer experience. The project was designed to support data-driven decision-making by transforming raw delivery records into clear, interactive business insights.
+
+Using Microsoft Excel, I cleaned and structured transactional delivery data, built pivot tables, and created a dynamic dashboard that tracks key operational and performance metrics. The analysis focuses on delivery time, delays, order status, on-time performance, customer feedback, and backlog trends across delivery zones, routes, and drivers.
+
+The final dashboard enables stakeholders to quickly identify operational bottlenecks, monitor service quality, and evaluate performance across different delivery rules and zones. This project demonstrates strong analytical skills, dashboard design, and the ability to translate operational data into meaningful insights for logistics and delivery-based businesses.
